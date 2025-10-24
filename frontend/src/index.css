@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.leaflet-container :focus:not(:focus-visible){
+  outline: 0;
+}
